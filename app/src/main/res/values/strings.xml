@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="tvNombreConfig">Name</string>
+    <string name="tvNumeroIntentosConfig">Number of attemps</string>
+    <string name="btJugarConfig">Let\'s play!</string>
+    <string name="avisoCampoVacio">You have to write your name and the number of attempts</string>
+    <string name="enteroNoValido">The number is not valid</string>
+    <string name="tvInstruccionesPlay">Guess the number between 1 and 100.</string>
+    <string name="btProbarNumeroPlay">Try number</string>
+    <string name="btTerminarPartidaPlay">End game</string>
+    <string name="noQuedanIntentos">You don\'t have any attempts left</string>
+    <string name="tvIntentosRestantesPlay">"Attempts left:"</string>
+    <string name="avisoPartidaGanada">You\'ve already won</string>
+    <string name="pistaPartidaGanada">You win!</string>
+    <string name="demasiadoBajo">Too low</string>
+    <string name="demasiadoAlto">Too high</string>
+    <string name="btResetearPlay">Reset</string>
+    <string name="tvTituloNombreEnd">Name:</string>
+    <string name="tvTituloNumeroIntentosEnd">Initial number of attempts:</string>
+    <string name="tvTituloNumeroIntentosRestantesEnd">Number of attempts left:</string>
+    <string name="tvTituloResultadoEnd">Result:</string>
+    <string name="resultadoPartidaGanada">You won!</string>
+    <string name="resultadoPartidaPerdida">You lost...</string>
+</resources>

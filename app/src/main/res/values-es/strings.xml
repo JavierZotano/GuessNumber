@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="tvNombreConfig">Nombre</string>
+    <string name="tvNumeroIntentosConfig">Número de intentos</string>
+    <string name="btJugarConfig">¡A jugar!</string>
+    <string name="avisoCampoVacio">Tienes que escribir tu nombre y el número de intentos</string>
+    <string name="enteroNoValido">El número no es válido</string>
+    <string name="tvInstruccionesPlay">Advina el número entre 1 y 100</string>
+    <string name="btProbarNumeroPlay">Probar número</string>
+    <string name="btTerminarPartidaPlay">Terminar partida</string>
+    <string name="noQuedanIntentos">No te quedan intentos</string>
+    <string name="tvIntentosRestantesPlay">Intentos restantes:</string>
+    <string name="avisoPartidaGanada">Ya has ganado</string>
+    <string name="pistaPartidaGanada">¡Has ganado!</string>
+    <string name="demasiadoBajo">Demasiado bajo</string>
+    <string name="demasiadoAlto">Demasiado alto</string>
+    <string name="btResetearPlay">Resetear</string>
+    <string name="tvTituloNombreEnd">Nombre:</string>
+    <string name="tvTituloNumeroIntentosEnd">Intentos iniciales:</string>
+    <string name="tvTituloNumeroIntentosRestantesEnd">Intentos restantes:</string>
+    <string name="tvTituloResultadoEnd">Resultado:</string>
+    <string name="resultadoPartidaGanada">¡Has ganado!</string>
+    <string name="resultadoPartidaPerdida">Has perdido...</string>
+</resources>
